@@ -9,6 +9,13 @@ body {
 
 .calc-container {
   display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10rem;
+}
+
+.calculator {
+  display: flex;
   flex-direction: column;
   justify-content: center;
   margin-top: 6rem;
