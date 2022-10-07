@@ -1,0 +1,14 @@
+.home-container {
+  margin: 5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  color: rgb(107, 107, 107);
+}
+
+p {
+  margin-bottom: 2.5rem;
+  font-size: 22px;
+}
