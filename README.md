@@ -4,15 +4,18 @@
 
 > A single-page React app that allows the user to make simple calculations.
 
+## Preview
+
+![Website preview](./mockup.png)
+
 ## Live Demo
 
-[Live](https://resilient-fudge-f8a831.netlify.app/)
+[Live](https://mathmagicians-shyusu4.netlify.app/)
 
 ## Built with
 
 - React
 - JSX
-- webpack
 
 ## Getting Started
 
@@ -47,4 +50,4 @@ Microverse
 
 ## 📝 License
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/shyusu4/Math-Magicians/blob/main/MIT.md) licensed.
