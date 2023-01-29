@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Math Magicians
 
 > A single-page React app that allows the user to make simple calculations.
@@ -10,7 +8,7 @@
 
 ## Live Demo
 
-[Live](https://mathmagicians-shyusu4.netlify.app/)
+Check out the live demo [here](https://mathmagicians-shyusu4.netlify.app/)
 
 ## Built with
 
@@ -24,17 +22,17 @@
 - Run `git pull origin app`
 - Run `yarn install` or `npm install` to install dependencies
 - On the terminal run `npm run start` open up the live server
-- To run tests write `npm run test` on the terminal
+- To run tests run `npm run test` on the terminal
 
 ## Authors
 
-👤 Shakhrizoda Yusupova
+**Shakhrizoda Yusupova**
 
 - GitHub: [@shyusu4](https://github.com/shyusu4)
 - Twitter: [@shyusu4](https://twitter.com/shyusu4)
 - LinkedIn: [Shakhrizoda Yusupova](https://www.linkedin.com/in/shyusu4/)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -48,6 +46,6 @@ Give a ⭐️ if you like this project!
 
 Microverse
 
-## 📝 License
+## License
 
 This project is [MIT](https://github.com/shyusu4/Math-Magicians/blob/main/MIT.md) licensed.
