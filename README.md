@@ -1,51 +1,41 @@
-# Math Magicians
+# React Calculator
 
-> A single-page React app that allows the user to make simple calculations.
+> A simple calculator built using React.
 
 ## Preview
 
-![Website preview](./mockup.png)
+![Website preview]()
 
 ## Live Demo
 
-Check out the live demo [here](https://mathmagicians-shyusu4.netlify.app/)
+Check out the live demo [here.](https://mathmagicians-shyusu4.netlify.app/)
 
 ## Built with
 
 - React
 - JSX
+- CSS
 
-## Getting Started
+## Installation and Setup Instructions
+To get started with the project, follow these steps:
 
-- Clone the repo `git@github.com:shyusu4/Math-Magicians.git`
-- cd `into` the project
-- Run `git pull origin app`
-- Run `yarn install` or `npm install` to install dependencies
-- On the terminal run `npm run start` open up the live server
-- To run tests run `npm run test` on the terminal
+- Clone the repository.
+- Install the necessary dependencies using `npm install`
+- Run the development server using `npm start`
+- Run tests using `npm run test`
 
-## Authors
+## Reflection 
 
-**Shakhrizoda Yusupova**
-
-- GitHub: [@shyusu4](https://github.com/shyusu4)
-- Twitter: [@shyusu4](https://twitter.com/shyusu4)
-- LinkedIn: [Shakhrizoda Yusupova](https://www.linkedin.com/in/shyusu4/)
+Initially, this application consisted of three pages: a home page displaying random lorem ipsum text, a calculator page, and a page with a quote. While it was as a valuable practice exercise, I decided to simplify it to solely focus on the calculator functionality. This change made more sense to me, considering that users typically require a calculator more frequently.
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page.](https://github.com/shyusu4/Math-Magicians/issues)
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shyusu4/calculator/issues) to see how you can contribute.
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-Microverse
+If you find this project helpful or interesting, please give it a star. Your support is greatly appreciated!
 
 ## License
 
-This project is [MIT](https://github.com/shyusu4/Math-Magicians/blob/main/MIT.md) licensed.
+This project is [MIT](https://github.com/shyusu4/calculator/blob/main/MIT.md) licensed.
