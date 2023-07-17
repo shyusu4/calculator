@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-Check out the live demo [here.](https://mathmagicians-shyusu4.netlify.app/)
+Check out the live demo [here.](https://calculator-shyusu4.netlify.app/)
 
 ## Built with
 
