@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Website preview]()
+<img src="https://github.com/shyusu4/calculator/assets/106587342/27c83f06-2d0c-4f94-9d50-8a9160dbf018" width="580" height="380">
 
 ## Live Demo
 
