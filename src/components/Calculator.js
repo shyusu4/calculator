@@ -26,27 +26,24 @@ const Calculator = () => {
             {state.next}
           </span>
         </div>
-        <div className="calc-btns">
-          <button type="button" className="calc-btn" onClick={onClickEvent}>AC</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>+/-</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>%</button>
-          <button type="button" className="calc-btn orange" onClick={onClickEvent}>÷</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>7</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>8</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>9</button>
-          <button type="button" className="calc-btn orange" onClick={onClickEvent}>x</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>4</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>5</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>6</button>
-          <button type="button" className="calc-btn orange" onClick={onClickEvent}>-</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>1</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>2</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>3</button>
-          <button type="button" className="calc-btn orange" onClick={onClickEvent}>+</button>
-          <button type="button" className="calc-btn double-span" onClick={onClickEvent}>0</button>
-          <button type="button" className="calc-btn" onClick={onClickEvent}>.</button>
-          <button type="button" className="calc-btn orange" onClick={onClickEvent}>=</button>
-        </div>
+        <button type="button" className="calc-btn clear" onClick={onClickEvent}><i>AC</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>+/-</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>÷</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>7</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>8</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>9</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>*</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>4</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>5</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>6</i></button>
+        <button type="button" className="calc-btn plus" onClick={onClickEvent}><i>+</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>1</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>2</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>3</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>0</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>.</i></button>
+        <button type="button" className="calc-btn" onClick={onClickEvent}><i>-</i></button>
+        <button type="button" className="calc-btn equal" onClick={onClickEvent}><i>=</i></button>
       </div>
     </div>
   );
